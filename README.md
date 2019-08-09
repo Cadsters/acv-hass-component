@@ -1,4 +1,4 @@
-# Home Assistant acv-groep-component
+# Home Assistant acv-groep component
 Component for bin/waste collection  by acv-groep
 
 add the following to your sensor yaml and change the postcode and housenumber to whats applicable for yours
