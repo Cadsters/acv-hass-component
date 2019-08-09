@@ -94,7 +94,7 @@ WasteSchedule = NamedTuple('WasteSchedule', [('trash_type', str), ('pickup_date'
 class WasteApiReader:
 
     def __init__(self, postcode, housenumber):
-        self.postcode = postcode  # TODO: remove spaces, check it is a valid postcode
+        self.postcode = postcode
         self.housenumber = housenumber
         self._request_headers = DEFAULT_HEADERS
         self._companycode = DEFAULT_COMPANYCODE
