@@ -19,3 +19,4 @@ Add the following to your sensor yaml and change the postcode and house number t
  ```
 ###### Original Author: @vloris (Floris Kruisselbrink)
 ###### Modification for acv-groep by: Cadster
+###### Modification for new api address by: aritmeester

@@ -70,7 +70,7 @@ def setup_platform(hass, config, add_entities, discovery_info=None):
 
 
 # Settings for ACV:
-DEFAULT_BASEURL = 'https://wasteapi.2go-mobile.com/api/{}'
+DEFAULT_BASEURL = 'https://wasteapi.ximmio.com/api/{}'
 DEFAULT_COMPANYCODE = 'f8e2844a-095e-48f9-9f98-71fceb51d2c3'
 DEFAULT_HEADERS = {
     'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36",
