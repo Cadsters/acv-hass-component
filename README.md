@@ -1,5 +1,5 @@
 # Home Assistant acv-groep component
-Component for bin/waste collection  by acv-groep
+Integration for bin/waste collection  by acv-groep
 
 This works in Ede, Renkum, Renswoude, Veenendaal and Wageningen
 
