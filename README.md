@@ -17,6 +17,6 @@ Add the following to your sensor yaml and change the postcode and house number t
      - packages
      - textile
  ```
-###### Original Author: @vloris (Floris Kruisselbrink)
+###### Original Author: @floriskruisselbrink (Floris Kruisselbrink)
 ###### Modification for acv-groep by: Cadster
 ###### Modification for new api address by: aritmeester
