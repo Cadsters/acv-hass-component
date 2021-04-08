@@ -2,6 +2,7 @@
   "domain": "acv",
   "name": "ACV garbage collection sensor",
   "version": "0.23",
+  "issue_tracker": "https://github.com/cadsters/acv-hass-component/issues",
   "documentation": "https://github.com/cadsters/acv-hass-component/blob/master/README.md",
   "dependencies": [],
   "codeowners": ["@floriskruisselbrink", "@Cadsters", "@aritmeester"],
