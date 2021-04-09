@@ -1,0 +1,4 @@
+{
+  "name": "ACV garbage collection sensor",
+  "domains": ["sensor"]
+}
