@@ -1,3 +1,4 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 # Home Assistant acv-groep component
 Integration for bin/waste collection  by acv-groep
 
