@@ -1,8 +1,8 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 # Home Assistant acv-groep component
-Integration for bin/waste collection  by acv-groep
+Integration for bin/waste collection  by acv-groep.
 
-This works in Ede, Renkum, Renswoude, Veenendaal and Wageningen
+This works in Ede, Renkum, Renswoude, Veenendaal and Wageningen.
 
 Add the following to your sensor yaml and change the postcode and house number to whats applicable to yours.
  ```yaml
