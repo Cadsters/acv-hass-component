@@ -1,4 +1,4 @@
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 [![Github all releases](https://img.shields.io/github/downloads/Cadsters/acv-hass-component/total.svg)](https://GitHub.com/Cadsters/acv-hass-component/releases/)
 [![GitHub issues](https://img.shields.io/github/issues/Cadsters/acv-hass-component.svg)](https://GitHub.com/Cadsters/acv-hass-component/issues/)
 # Home Assistant acv-groep component
