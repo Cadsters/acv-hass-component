@@ -1,5 +1,5 @@
 {
   "name": "ACV garbage collection sensor",
-  "iot_class": ["cloud_polling"],
-  "domains": ["sensor"]
+  "render_readme": true,
+  "country": ["NL"]
 }
